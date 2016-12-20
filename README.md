@@ -1,3 +1,3 @@
 # pathfinder
 
-First, check out https://code.google.com/p/rapla/ and start the rapla server.
+First, check out https://github.com/rapla/rapla/ and start the rapla server.
